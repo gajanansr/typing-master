@@ -1,0 +1,66 @@
+.landing-container {
+
+    display: flex;
+    justify-content: space-between;
+    min-height: 90vh;
+    align-items: center;
+    color: #eee2ee;
+    padding: 0px 32px;
+    font-family: "Bangers" , cursive;
+    margin: 0px;
+    flex-wrap: wrap;
+
+}
+
+.landing-header  {
+
+    font-size: 92px;
+    letter-spacing: 4px;
+    margin: 0;
+}
+
+.tywriter-container {
+
+   font-size: 64px;
+   letter-spacing: 4px;
+
+}
+
+
+
+
+
+.flash-img {
+
+        width: 40vw;
+        
+
+
+}
+
+@media (max-width : 800px ) {
+
+    .landing-container {
+
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .flash-img {
+
+        width: 80vw;
+    }
+    .landing-header {
+
+        margin-top: 32px;
+        text-align: center;
+
+    }
+
+    .tywriter-container {
+
+        align-items: center;
+    }
+
+}
+

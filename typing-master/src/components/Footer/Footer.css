@@ -1,0 +1,26 @@
+.footer-container {
+
+    display: block;
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 10vh;
+    overflow: hidden;
+    
+
+}
+
+.footer-link { 
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+}
+
+
+
+
