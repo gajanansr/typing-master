@@ -9,7 +9,7 @@ const TryAgain = ({
     startAgain
 
 }) => {
-    const url = "abhiimali.github.io";
+    const url = "gajanansr.github.io";
     return (
         <>
 
