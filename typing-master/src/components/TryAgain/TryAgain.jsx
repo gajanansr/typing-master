@@ -57,7 +57,7 @@ const TryAgain = ({
                 <button
                     onClick={() =>
                         window.open(
-                            "https://twitter.com/intent/tweet?text=Check%20this%20out%20" +
+                            "https://twitter.com/intent/tweet?text=Check%20this%20out:%20" +
                                 url,
                             "Twitter",
                             "width=800,height=600"
